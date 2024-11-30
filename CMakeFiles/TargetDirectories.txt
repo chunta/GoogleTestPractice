@@ -1,0 +1,3 @@
+/Users/rexchen/workspace/gtestapp/CMakeFiles/MyTest.dir
+/Users/rexchen/workspace/gtestapp/CMakeFiles/edit_cache.dir
+/Users/rexchen/workspace/gtestapp/CMakeFiles/rebuild_cache.dir
